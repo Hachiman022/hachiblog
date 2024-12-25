@@ -18,4 +18,9 @@ fdswefwefw
 fs
 fdswewfwefwefwf
 fds
-![[Pasted image 20241225095110.png]]
+!![Image Description](/images/Pasted%20image%2020241225095110.png)
+
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2OzhQlSqBEmt7hmkYxfT6m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
