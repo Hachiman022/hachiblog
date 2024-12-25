@@ -18,6 +18,4 @@ fdswefwefw
 fs
 fdswewfwefwefwf
 fds
-
-![[Pasted image 20241225094736.png]]
-
+![[Pasted image 20241225095110.png]]
