@@ -100,3 +100,6 @@ pagination.pagerSize = 5
           identifier = "showcase"
           name = "Showcase"
           url = "/showcase"
+
+  [markup.goldmark.renderer]
+    unsafe = true
