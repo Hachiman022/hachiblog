@@ -1,6 +1,10 @@
 ---
 title: Continue
 date: 2024-12-27
+tags:
+  - Happy
+  - Sad
+  - Hopeful
 ---
 
 
