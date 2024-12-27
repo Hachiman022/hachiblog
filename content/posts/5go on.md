@@ -1,6 +1,9 @@
 ---
 title: Be thankful for everything small or big
 date: 2024-12-28
+tags:
+  - Happy
+  - Hopeful
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/53XAWMb0VaJhfWo7FDXSuq?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
