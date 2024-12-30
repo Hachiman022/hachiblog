@@ -1,6 +1,6 @@
 ---
 title: it’s not you. OK?
-date: 2024-12-29
+date: 2024-12-30
 tags:
   - Thought
   - Hopeful
