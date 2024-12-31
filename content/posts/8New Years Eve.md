@@ -1,6 +1,6 @@
 ---
 title: Life is hard enough, he's going to learn that lesson eventually
-date: 2024-12-30
+date: 2024-12-31
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ONW0ksoUixoxT7gfI9hWX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
