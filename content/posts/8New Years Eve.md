@@ -20,5 +20,3 @@ You see our goals are clear. Make sure to make every day count so we can get clo
 
 Thank you again, God, for another day. I'll make sure to make it count.
 
-![[Pasted image 20241231102352.png]]
-
