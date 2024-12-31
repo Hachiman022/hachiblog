@@ -19,3 +19,6 @@ I want this post to be about our goals, so you, Raven from the future, make sure
 You see our goals are clear. Make sure to make every day count so we can get closer to them. Life has already taught you the hardships and lessons; now it's time for you to apply those lessons. If no one has told you this before, I believe in you. One day, we will look back at this and laugh about it. You will also find the one for sure – you are a good person, and the universe will unfold on its own. Don't cling to the past, forgive them as you forgive yourself.
 
 Thank you again, God, for another day. I'll make sure to make it count.
+
+![[Pasted image 20241231102352.png]]
+
