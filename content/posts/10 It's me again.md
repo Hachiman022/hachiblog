@@ -1,6 +1,6 @@
 ---
 title: New Me
-date: 2025-01-01
+date: 2025-01-02
 ---
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4nbqmb5un8BBLpCG2S0AkM?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
